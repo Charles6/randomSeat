@@ -1,0 +1,45 @@
+#left{
+	background-color: red;
+	float: left;
+	width: 240px;
+	height: 480px;
+}
+
+#leftSeats{
+	float: left;
+	width: 200px;
+	height: 480px;
+}
+#topLeft{
+	background-color: orange;
+	float: left;
+	width: 120px;
+	height: 480px;
+}
+#topRight{
+	background-color: yellow;
+	float: left;
+	width: 120px;
+	height: 480px;
+}
+#right{
+	background-color: green;
+	float: left;
+	width: 240px;
+	height: 480px;
+}
+
+#leftTables{
+}
+
+.wing{
+	width: 40px;
+	height: 480px;
+}
+
+.wingTable{
+	width: 30px;
+	height: 110px;
+	margin: 5px;
+	background-color: blue;
+}
